@@ -1,11 +1,9 @@
 # Hi there! 👋  
 
-I'm **Nikita**, a passionate developer who loves building creative and user-friendly projects.  
-I enjoy working with **JavaScript, HTML, CSS, React, Python, and C++** and am currently learning **Data Structures and Algorithms (DSA).**  
+I'm **Nikita Yadav**, a passionate developer who loves building creative and user-friendly projects.  
+I enjoy working with **JavaScript, HTML, CSS, React, Python, and C++** and am currently learning **Data Structures and Algorithms (DSA) and Web Development.**  
 
-## 🚀 About Me  
-🔹 **Current Project:** [Project Name] – [Brief description]  
-🔹 **Tech Stack:**  
+## 🚀 Tech Stack  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -17,7 +15,7 @@ I enjoy working with **JavaScript, HTML, CSS, React, Python, and C++** and am cu
 </p>
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-yadav-0a6a582b0/)  
 
 ---
 
